@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste com imagens flexíveis</title>
+    <style>
+        body {
+            background-color: blueviolet;
+        }
+    </style>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <h1>Imagem flexível</h1>
+    <picture>
+        <source media="(max-width: 700px)" srcset="imagens-2/tanjiro-300px.png" type="image/png">
+        <source media="(max-width: 1000px)" srcset="imagens-2/tanjiro-700px.png" type="image/png">
+        <img src="imagens-2/tanjiro-1000px.png" alt="Imagem flexível">
+    </picture>
+</body>
+</html>
