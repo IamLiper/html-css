@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href='desafios/desafio10/kimetsunoyaiba.html'></a>
+<a href='desafios/desafio10/kimetsunoyaiba.html'>Clique aqui</a>
