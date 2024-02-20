@@ -148,6 +148,23 @@ footer a {
     text-decoration: none;
 }
 
+.voting-container {
+    text-align: center;
+    margin: 50px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+span {
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
